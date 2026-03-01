@@ -25,6 +25,7 @@ public class Strings
 			
 			
 		}
+		System.err.println(map);
 		
 	}
 
